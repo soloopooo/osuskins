@@ -53,6 +53,7 @@ sns:
   bilibili: '//space.bilibili.com/31347507'
   github: '//github.com/soloopooo'
   Osu: 'osu.ppy.sh/u/9502298'
+  email: 'mailto:soloopooo@foxmail.com'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
