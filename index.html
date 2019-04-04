@@ -43,7 +43,7 @@ description: 或许是最漂亮的Jekyll主题
                             {% endfor %}
                         {% endif %}
                     </div>
-                    <time class="post-date" datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date | date_to_string }}</time>
+                    <time class="post-date" datetime="{{ post.date | date:"%y-%m-%d %h:%m:%s" }}">{{ post.date | date_to_string }}</time>
                 </footer>
             </article>
         {% endfor %}
