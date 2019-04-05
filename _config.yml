@@ -31,14 +31,14 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus_url: ''
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat', 'weibo', 'douban', 'twitter','QQ']
 
 # theme color 主题皮肤
 theme-color: 'pink'  # pink or default
@@ -50,9 +50,9 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/soloopooo'
-  bilibili: '//space.bilibili.com/31347507'
+  
   github: '//github.com/soloopooo'
-  Osu: 'osu.ppy.sh/u/9502298'
+  
   email: 'mailto:soloopooo@foxmail.com'
 
 # Tags 设置标签
