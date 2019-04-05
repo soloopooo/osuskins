@@ -20,7 +20,7 @@ footer:
 author: 'soloopooo'
 nickname: ''
 bio: '一个osu手残玩家'
-avatar: url('https://a.ppy.sh/9502298?1536448758.jpeg')
+avatar: 'https://a.ppy.sh/9502298?1536448758.jpeg'
 
 # Search
 search: true
