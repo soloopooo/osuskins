@@ -2,7 +2,7 @@
 title: 'Osu!Skins收集地'
 description: 'Osu!各种皮肤收集地，有喜欢的皮肤可以联系我哦'
 keyword: 'osu!,皮肤'
-url: 'osuskins.soloopooo.tk' # your host
+url: '' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -20,7 +20,7 @@ footer:
 author: 'soloopooo'
 nickname: ''
 bio: '一个osu手残玩家'
-avatar: '/assets/img/profile.png'
+avatar: url('https://a.ppy.sh/9502298?1536448758.jpeg')
 
 # Search
 search: true
@@ -38,7 +38,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter','QQ']
+social-share-items: ['wechat', 'weibo', 'douban', 'twitter', 'QQ' ,'Qzone' ]
 
 # theme color 主题皮肤
 theme-color: 'pink'  # pink or default
