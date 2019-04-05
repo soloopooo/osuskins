@@ -8,9 +8,9 @@ cover: 'https://i.postimg.cc/7ZTML4WB/screenshot125.jpg'
 tags: 皮肤 yugen
 ---
 
-##投稿者：kcwt
+## 投稿者：kcwt
 
-##游戏截图：
+## 游戏截图：
 
 <img src="https://i.postimg.cc/Sx5TZVwP/screenshot120.jpg">
 
@@ -29,6 +29,6 @@ tags: 皮肤 yugen
 <img src="https://i.postimg.cc/s2YYpcy7/screenshot126.jpg">
 
 
-##下载链接：
+## 下载链接：
 
 [点此下载（蓝奏云）](https://www.lanzous.com/i3o18ja)
