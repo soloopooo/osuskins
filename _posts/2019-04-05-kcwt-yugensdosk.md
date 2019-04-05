@@ -4,7 +4,7 @@ title: 'Yugen SD osk'
 subtitle: '一款不错的皮肤'
 date: 2019-04-05
 categories: 皮肤
-cover: ''
+cover: 'https://i.postimg.cc/7ZTML4WB/screenshot125.jpg'
 tags: 皮肤 yugen
 ---
 
