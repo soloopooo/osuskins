@@ -32,3 +32,7 @@ tags: 皮肤 yugen
 ## 下载链接：
 
 [点此下载（蓝奏云）](https://www.lanzous.com/i3o18ja)
+
+## ref:
+
+[皮肤帖子](https://osu.ppy.sh/forum/t/365036)
