@@ -4,7 +4,7 @@ title: '站点建立！'
 subtitle: 'osu!皮肤分享地带'
 date: 2019-04-05 08:42:00
 categories: 公告
-cover: ''
+cover: 'https://osu.ppy.sh/images/headers/profile-covers/c2.jpg'
 tags: 公告
 ---
 
