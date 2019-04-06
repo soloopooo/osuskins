@@ -2,8 +2,6 @@
 <html>
 {% include post-head.html %}
  
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
   
 <body>
   <!--[if lt IE 10]>
@@ -26,8 +24,13 @@
       <h1>{{ page.title }}</h1>
       <div class="post-meta">
         <span class="post-meta-item"><i class="iconfont icon-author"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</span>
-        <time class="post-meta-item" datetime="{{ page.date | date:"%y-%m-%d %h:%m:%s" }}"><i class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time>
+        <time class="post-meta-item" datetime="{{ page.date | date:"%y-%m-%d %H:%M:%S" }}"><i class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time>
+        <div>
+        <span id="busuanzi_container_page_pv">
+          本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+        </span>
       </div>
+     </div>
     </div>
     {% if page.cover %}
     <div class="filter"></div>
@@ -36,11 +39,7 @@
    
   </header>
 
-  <div>
-      <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
-      </div>
+
  
   <div class="post-content visible">
     {% if page.subtitle %}
