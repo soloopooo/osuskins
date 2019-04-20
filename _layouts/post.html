@@ -110,6 +110,22 @@
         <div id="disqus_thread"></div>
     </section>
     {% endif %}
+    <section>
+        <div id="gitmentContainer"></div>
+        <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+        <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+        <script>
+        var gitment = new Gitment({
+            owner: 'soloopooo',
+            repo: 'osuskins',
+            oauth: {
+                client_id: '37e2ab700acf0e1a7490',
+                client_secret: '19d5e73ca2861c1d59120faec084354af79ce73b',
+            },
+        });
+        gitment.render('gitmentContainer');
+        </script>
+    </section>
   </section>
 
   {% include footer.html %}
