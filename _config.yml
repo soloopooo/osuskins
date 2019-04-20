@@ -9,8 +9,9 @@ baseurl: ''
 
 # Navigation links
 nav:
+  公告: '/forall'
   home: '/'
-  tags: '/tags.html'
+  tags: '/tags'
   osu!: '//osu.ppy.sh'
 
 # Footer
