@@ -33,8 +33,8 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: ''
   gitalk: true
+  disqus_url: ''
   gitalk_clientID: '37e2ab700acf0e1a7490'
   gitalk_Secret: '19d5e73ca2861c1d59120faec084354af79ce73b'
   gitalk_repo: 'osuskins'

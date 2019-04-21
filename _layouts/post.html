@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-    
+
 {% include post-head.html %}
 
  
@@ -108,15 +108,15 @@
       </div>
       {% endif %}
     </section>
-    {% if site.comments.gitalk %}
+    {% if site.comments.disqus %}
     <section class="post-footer-item comment">
         <div id="disqus_thread"></div>
+        <div id="gitalk_container"></div>    
     </section>
     {% endif %}
-    <section class="post-footer-item">
-        <div id="gitalk_container"></div>
+    <section class="post-footer-item comment">
+        <div id="gitalk_container"></div> 
     </section>
-
 
 
   </section>
