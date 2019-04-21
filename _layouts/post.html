@@ -110,8 +110,7 @@
     </section>
     {% if site.comments.disqus %}
     <section class="post-footer-item comment">
-        <div id="disqus_thread"></div>
-        <div id="gitalk_container"></div>    
+        <div id="disqus_thread"></div>  
     </section>
     {% endif %}
     <section class="post-footer-item comment">
@@ -161,13 +160,13 @@
 
   <script>
       var gitalk = new Gitalk({
-        clientID: '{{ site.comment.gitalk_clientID }}',
-        clientSecret: '{{ site.comment.gitalk_Secret }}',
-        repo: '{{ site.comment.gitalk_repo }}',
-        owner: '{{ site.comment.gitalk_owner }}',
-        admin: '{{ site.comment.gitalk_admin }}',
+        clientID: '{{ site.comments.gitalk_clientID }}',
+        clientSecret: '{{ site.comments.gitalk_Secret }}',
+        repo: '{{ site.comments.gitalk_repo }}',
+        owner: '{{ site.comments.gitalk_owner }}',
+        admin: '{{ site.comments.gitalk_admin }}',
         id: location.pathname,     
-        distractionFreeMode: '{{ site.comment.gitalk_distractionFreeMode }}'  
+        distractionFreeMode: '{{ site.comments.gitalk_distractionFreeMode }}'  
       })
       gitalk.render('gitalk_container')
     </script>
