@@ -34,6 +34,13 @@ nightMode: true
 comments:
   disqus: false
   disqus_url: ''
+  gitalk: true
+  gitalk_clientID: '37e2ab700acf0e1a7490'
+  gitalk_Secret: '19d5e73ca2861c1d59120faec084354af79ce73b'
+  gitalk_repo: 'osuskins'
+  gitalk_owner: 'soloopooo'
+  gitalk_admin: 'soloopooo'
+  distractionFreeMode: false
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true

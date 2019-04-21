@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 {% include post-head.html %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
  
   
 <body>
@@ -108,24 +109,10 @@
     {% if site.comments.disqus %}
     <section class="post-footer-item comment">
         <div id="disqus_thread"></div>
+        <div id="gitalk_container"></div>
     </section>
     {% endif %}
-    <section>
-        <div id="gitmentContainer"></div>
-        <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-        <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-        <script>
-        var gitment = new Gitment({
-            owner: 'soloopooo',
-            repo: 'osuskins',
-            oauth: {
-                client_id: '37e2ab700acf0e1a7490',
-                client_secret: '19d5e73ca2861c1d59120faec084354af79ce73b',
-            },
-        });
-        gitment.render('gitmentContainer');
-        </script>
-    </section>
+
   </section>
 
   {% include footer.html %}
@@ -164,6 +151,21 @@
     })();
   </script>
   {% endif %}
+
+
+  <script>
+      var gitalk = new Gitalk({
+        clientID: '{{ site.comment.gitalk_clientID }}',
+        clientSecret: '{{ site.comment.gitalk_Secret }}',
+        repo: '{{ site.comment.gitalk_repo }}',
+        owner: '{{ site.comment.gitalk_owner }}',
+        admin: '{{ site.comment.gitalk_admin }}',
+        id: location.pathname,     
+        distractionFreeMode: '输入distractionFreeMode表达式'  
+      })
+      gitalk.render('gitalk_container')
+    </script>
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script
 
   <script src="/assets/js/prism.js"></script>
   <script src="/assets/js/index.min.js"></script>
