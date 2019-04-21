@@ -218,7 +218,7 @@ $(document).ready(function(){
         var date = new Date();
         var hour = date.getHours();
 
-        if (hour <= 7 || hour >= 17) {
+        if (hour <= 7 || hour >= 16) {
             el.addClass(className);
         }
     }
