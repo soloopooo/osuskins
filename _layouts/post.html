@@ -167,7 +167,7 @@
         owner: '{{ site.comment.gitalk_owner }}',
         admin: '{{ site.comment.gitalk_admin }}',
         id: location.pathname,     
-        distractionFreeMode: '输入distractionFreeMode表达式'  
+        distractionFreeMode: '{{ site.comment.gitalk_distractionFreeMode }}'  
       })
       gitalk.render('gitalk_container')
     </script>
