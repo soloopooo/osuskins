@@ -34,7 +34,7 @@ nightMode: true
 comments: true
 
 comments:
-  disqus: false
+  disqus: true
   gitalk: true
   disqus_url: ''
   gitalk_clientID: '37e2ab700acf0e1a7490'
