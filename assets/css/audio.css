@@ -140,22 +140,22 @@ ul li{
 	margin-left: 10px;
 }
 .audio-prev{
-	background-image: url('../assets/images/prev.png');
+	background-image: url("../assets/images/prev.png");
 }
 .audio-next{
-	background-image: url('../assets/images/next.png');
+	background-image: url("../assets/images/next.png");
 }
 .audio-play{
-	background-image: url('../assets/images/play.png');
+	background-image: url("../assets/images/play.png");
 }
 .audio-stop{
-	background-image: url('../assets/images/pause.png');
+	background-image: url("../assets/images/pause.png");
 }
 .audio-menu{
-	background-image: url('../assets/images/menu.png');
+	background-image: url("../assets/images/menu.png");
 }
 .audio-volume{
-	background-image: url('../assets/images/volume.png');
+	background-image: url("../assets/images/volume.png");
 }
 .audio-list{
 	position: absolute;
