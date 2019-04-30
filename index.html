@@ -6,6 +6,8 @@ description: 追求分享与收集 Osu!皮肤聚集地
 
 {% include header.html %}
 
+<link rel="stylesheet" type="text/css" href="dev/css/audio.css">
+
 <div
     class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}"
     data-theme="{{ site.theme-color }}"
@@ -13,7 +15,6 @@ description: 追求分享与收集 Osu!皮肤聚集地
 >
     <h2>{{ page.home-title }}</h2>
     <h3>{{ page.description }}</h3>
-    <audio src="https://soloopooo.gitee.io/bgm/199052327013.mp3" autoplay="autoplay" loop="loop" controls="smallconsole"></audio>
 </div>
 
 <main class="g-container home-content">
@@ -101,5 +102,105 @@ description: 追求分享与收集 Osu!皮肤聚集地
     </aside>
 
 </main>
+
+<body style="height: 800px">
+        <div class="audio-box">
+            <div class="audio-container">
+                <div class="audio-view">
+                    <div class="audio-cover" ></div>
+                    <div class="audio-body">
+                        <h3 class="audio-title">未知歌曲</h3>
+                        <div class="audio-backs">
+                            <div class="audio-this-time">00:00</div>
+                            <div class="audio-count-time">00:00</div>
+                            <div class="audio-setbacks">
+                                <i class="audio-this-setbacks">
+                                    <span class="audio-backs-btn"></span>
+                                </i>
+                                <span class="audio-cache-setbacks">
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="audio-btn">
+                        <div class="audio-select">
+                            <div class="audio-prev"></div>
+                            <div class="audio-play"></div>
+                            <div class="audio-next"></div>
+                            <div class="audio-menu"></div>
+                            <div class="audio-volume"></div>
+                        </div>
+                        <div class="audio-set-volume">
+                            <div class="volume-box">
+                                <i><span></span></i>
+                            </div>
+                        </div>
+                        <div class="audio-list">
+                            <div class="audio-list-head">
+                                <p>歌单</p>
+                                <span class="menu-close">关闭</span>
+                            </div>
+                            <ul class="audio-inline">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    
+    <script type="text/javascript" src="dev/js/jquery.min.js"></script>
+    <script type="text/javascript" src="dev/js/audio.js"></script>
+    <script type="text/javascript">
+    $(function(){
+    
+        var song = [
+            {
+                'cover' : 'dev/images/cover2.jpg',
+                'src' : 'https://soloopooo.gitee.io/bgm/199052327013.mp3',
+                'title' : '響音 -kotone- (instrumental)]_森永真由美'
+            },
+            {
+                'cover' : 'dev/images/cover1.jpg',
+                'src' : 'https://soloopooo.gitee.io/bgm/b8bdb34b6dbd024b8cc5fba662854b28.mp3',
+                'title' : '奏(かなで) -Instrumental'
+            },
+        ];
+    
+        var audioFn = audioPlay({
+            song : song,
+            autoPlay : true  //是否立即播放第一首，autoPlay为true且song为空，会alert文本提示并退出
+        });
+    
+        /* 向歌单中添加新曲目，第二个参数true为新增后立即播放该曲目，false则不播放 */
+        //audioFn.newSong({
+            //'cover' : 'dev/images/cover5.jpg',
+            //'src' : 'https://amazingaudioplayer.com/wp-content/uploads/amazingaudioplayer/5/audios/Soaring%20Spirit.mp3',
+            //'title' : 'B.A.A.B'
+        //},false);
+    
+        /* 暂停播放 */
+        //audioFn.stopAudio();
+    
+        /* 开启播放 */
+        //audioFn.playAudio();
+    
+        /* 选择歌单中索引为3的曲目(索引是从0开始的)，第二个参数true立即播放该曲目，false则不播放 */
+        //audioFn.selectMenu(3,true);
+    
+        /* 查看歌单中的曲目 */
+        //console.log(audioFn.song);
+    
+        /* 当前播放曲目的对象 */
+        //console.log(audioFn.audio);
+    });
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?ecbff70bd46d40393c105bbc42edfcad";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
 
 {% include footer.html %}
