@@ -14,8 +14,8 @@ ul li{
 	width: 100%;
 	bottom: 0;
 	left: 0;
-	background-color: rgba(0, 0, 0, 0.562);
-	background-color: rgba(0, 0, 0, 0.671);
+	background-color: rgb(0, 0, 0);
+	background-color: rgba(0, 0, 0, 0.11);
 	color: #fff;
 }
 .audio-container{
@@ -38,7 +38,7 @@ ul li{
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-color: (rgba(21, 147, 163, 0.404))
+	background-color: rgba(0, 0, 0, 0)
 }
 .audio-cover img{
 	display: block;
@@ -160,8 +160,8 @@ ul li{
 .audio-list{
 	position: absolute;
 	right: 0;
-	color: (rgba(0,0,0,0.5));
-	background-color: (rgba(255,255,255,0.5));
+	color: rgba(0, 0, 0, 0.281);
+	background-color: rgba(255,255,255,0.5);
 	bottom: 100px;
 	border: 1px solid #ccc;
 	width: 240px;
@@ -216,7 +216,7 @@ ul li{
 	display: block !important;
 }
 .audio-set-volume{
-	background-color: (rgba(21, 147, 163, 0.404));
+	background-color: rgba(0, 0, 0, 0.404);
 	background-color: rgba(0,0,0,0.5);
 	position: absolute;
 	bottom: 100px;
