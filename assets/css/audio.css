@@ -38,7 +38,7 @@ ul li{
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-color: #000;
+	background-color: (rgba(21, 147, 163, 0.404))
 }
 .audio-cover img{
 	display: block;
@@ -140,28 +140,28 @@ ul li{
 	margin-left: 10px;
 }
 .audio-prev{
-	background-image: url('../images/prev.png');
+	background-image: url('../assets/images/prev.png');
 }
 .audio-next{
-	background-image: url('../images/next.png');
+	background-image: url('../assets/images/next.png');
 }
 .audio-play{
-	background-image: url('../images/play.png');
+	background-image: url('../assets/images/play.png');
 }
 .audio-stop{
-	background-image: url('../images/pause.png');
+	background-image: url('../assets/images/pause.png');
 }
 .audio-menu{
-	background-image: url('../images/menu.png');
+	background-image: url('../assets/images/menu.png');
 }
 .audio-volume{
-	background-image: url('../images/volume.png');
+	background-image: url('../assets/images/volume.png');
 }
 .audio-list{
 	position: absolute;
 	right: 0;
-	color: #000;
-	background-color: #fff;
+	color: (rgba(0,0,0,0.5));
+	background-color: (rgba(255,255,255,0.5));
 	bottom: 100px;
 	border: 1px solid #ccc;
 	width: 240px;
@@ -216,7 +216,7 @@ ul li{
 	display: block !important;
 }
 .audio-set-volume{
-	background-color: #000;
+	background-color: (rgba(21, 147, 163, 0.404));
 	background-color: rgba(0,0,0,0.5);
 	position: absolute;
 	bottom: 100px;
@@ -231,7 +231,7 @@ ul li{
 	margin: auto;
 	display: block;
 	position: relative;
-	background-color: #000;
+	background-color: rgba(116, 41, 41, 0.459);
 	border-radius: 2.5px;
 	height: 100px;
 	bottom: -10px;
@@ -241,7 +241,7 @@ ul li{
 	width: 11px;
 	height: 11px;
 	position: absolute;
-	background-color: #fff;
+	background-color: rgba(151, 56, 56, 0.486);
 	border-radius: 50%;
 	margin-left: -5.5px;
 	margin-top: -5.5px;
