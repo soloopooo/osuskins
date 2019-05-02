@@ -6,12 +6,74 @@ description: 追求分享与收集 Osu!皮肤聚集地
 
 {% include header.html %}
 
+<script src="assets/js/preload.js"></script>
+
+<script>
+var imgs = [
+    'https://soloopooo.gitee.io/img/1.webp',
+    'https://soloopooo.gitee.io/img/2.webp',
+    'https://soloopooo.gitee.io/img/3.webp',
+    'https://soloopooo.gitee.io/img/4.webp',
+    'https://soloopooo.gitee.io/img/5.webp',
+    'https://soloopooo.gitee.io/img/6.webp',
+    'https://soloopooo.gitee.io/img/7.webp',
+    'https://soloopooo.gitee.io/img/8.webp',
+    'https://soloopooo.gitee.io/img/9.webp',
+    'https://soloopooo.gitee.io/img/10.webp',
+];
+var index = 0,
+    len = imgs.length,
+    progress = $('.progress');
+
+//图片预加载
+$.preload(imgs, {
+    each: function (count) {
+        progress.html(Math.round((count+1) / len * 100) + '%');
+    },
+    end: function () {
+        $('.loading').hide();
+    }
+});
+</script>
+
+<script type="text/javascript">
+    var curIndex = 0;
+    //时间间隔(单位毫秒)，每秒钟显示一张，数组共有3张图片放在img文件夹下。
+    var timeInterval = 10000;
+    var arr = new Array();
+    arr[0] = "https://soloopooo.gitee.io/img/1.webp";
+    arr[1] = "https://soloopooo.gitee.io/img/2.webp";
+    arr[2] = "https://soloopooo.gitee.io/img/3.webp";
+    arr[3] = "https://soloopooo.gitee.io/img/4.webp";
+    arr[4] = "https://soloopooo.gitee.io/img/5.webp";
+    arr[5] = "https://soloopooo.gitee.io/img/6.webp";
+    arr[6] = "https://soloopooo.gitee.io/img/7.webp";
+    arr[7] = "https://soloopooo.gitee.io/img/8.webp";
+    arr[8] = "https://soloopooo.gitee.io/img/9.webp";
+    arr[9] = "https://soloopooo.gitee.io/img/10.webp";
+    setInterval(changeImg, timeInterval);
+    function changeImg() {
+
+                                //获得id名为files的对象
+        var obj = document.getElementById("files");
+        if (curIndex == arr.length - 1) {
+            curIndex = 0;
+        } else {
+            curIndex += 1;
+    }
+                        //设置d1的背景图片
+    obj.style.backgroundImage= "URL("+arr[curIndex]+")"; 
+    obj.style.backgroundSize= "100%"; 
+    obj.style.backgroundColor= "#000";   //显示对应的图片
+}
+</script>
 
 
 <div
+    id="files"
     class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}"
     data-theme="{{ site.theme-color }}"
-    style="{% if page.header-img %}background: url({{ page.header-img | prepend: site.baseurl }}) no-repeat center center; background-size: cover;{% endif %}"
+    style="background: url(https://soloopooo.gitee.io/img/1.webp); background-size: 100% ;"
 >
     <h2>{{ page.home-title }}</h2>
     <h3>{{ page.description }}</h3>
