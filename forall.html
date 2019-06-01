@@ -5,9 +5,27 @@ layout: default
 
 {% include header.html %}
 
+<style type="text\css">
+        main medium img{
+            display: inline;
+            align-self: center;
+            width: auto ;
+            max-width: 50%;
+            height: auto ;
+            max-height: 50%;
+            margin: 0px;
+            text-align: center;
+        }
+        main strong{
+            font-size: 52px;
+            color: #ff0000;
+        }
+        </style>
+
 <div class="g-banner tags-banner {{ site.postPatterns | prepend: 'post-pattern-' }} {{ site.theme-color | prepend: 'bgcolor-' }}" data-theme="{{ site.theme-color }}">
     <h2>公告</h2>
 </div>
+
 
 <main class="tags-content">
 </br>
@@ -34,7 +52,7 @@ layout: default
 
     <h2>投稿方式</h2>
 
-    请将皮肤文件及截图文件发送至<a href="mailto:soloopooo@foxmail.com">soloopooo@foxmail.com</a>。
+    请将皮肤文件、作者及截图文件发送至<a href="mailto:soloopooo@foxmail.com">soloopooo@foxmail.com</a>。
 
 </br>
 
@@ -42,8 +60,9 @@ layout: default
 
     微信扫描下面的二维码进行打赏，感谢各位的打赏，让站长有动力继续收集下去。
 
+    <div id="medium">
     <img src="/assets/img/mm_reward_qrcode_1555752085209.png">
-    
+    </div>
 </br>
 
     <h2>感谢名单&友情链接</h2>
@@ -51,6 +70,8 @@ layout: default
         <tr>
             <td>kcwt</td>
             <td>White_Crazy</td>
+            <br />
+            <strong>感谢@妈船(Mother_Ship)提供的osuskin.cn域名!</strong>
         </tr>
     </table>
 
