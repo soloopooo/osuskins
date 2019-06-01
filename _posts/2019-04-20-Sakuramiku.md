@@ -8,6 +8,8 @@ cover: 'https://i.postimg.cc/DwcjbGg9/screenshot133.jpg'
 tags: 皮肤 Miku Sakura
 ---
 
+## 作者：Jelsa Frozen
+
 ## 投稿者：soloopooo
 
 ## 游戏截图：

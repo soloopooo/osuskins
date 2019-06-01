@@ -8,6 +8,8 @@ cover: 'https://i.postimg.cc/qq2KN9np/screenshot155.jpg'
 tags: 皮肤 其他音游 VOEZ 多版本
 ---
 
+## 作者： Lots of people（一大堆人）
+
 ## 投稿者：soloopooo
 
 ## 游戏截图：

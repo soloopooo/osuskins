@@ -8,6 +8,8 @@ cover: 'https://i.postimg.cc/QxC6RvNz/screenshot094.jpg'
 tags: 皮肤 cute
 ---
 
+## 作者：Mitsuruko&bitterness
+
 ## 投稿者：soloopooo
 
 ## 游戏截图：

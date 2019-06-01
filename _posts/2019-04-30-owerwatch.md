@@ -8,6 +8,8 @@ cover: 'https://i.postimg.cc/4NNGZg82/screenshot198.jpg'
 tags: 皮肤 Overwatch 其他游戏改编
 ---
 
+## 作者：[Sycranet]
+
 ## 投稿者：soloopooo
 
 ## 游戏截图：

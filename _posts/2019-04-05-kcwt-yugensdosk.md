@@ -8,6 +8,8 @@ cover: 'https://i.postimg.cc/7ZTML4WB/screenshot125.jpg'
 tags: 皮肤 yugen
 ---
 
+## 作者： [Garin]
+
 ## 投稿者：kcwt
 
 ## 游戏截图：
@@ -18,9 +20,7 @@ tags: 皮肤 yugen
 
 <img src="https://i.postimg.cc/7Ytm6mYL/screenshot122.jpg">
 
-
 <img src="https://i.postimg.cc/qvtQCyzx/screenshot123.jpg">
-
 
 <img src="https://i.postimg.cc/KYBN0b7K/screenshot124.jpg">
 

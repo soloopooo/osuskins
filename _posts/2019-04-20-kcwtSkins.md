@@ -8,6 +8,8 @@ cover: 'https://i.postimg.cc/dtFPS3v4/screenshot176.jpg'
 tags: 皮肤 Youtube
 ---
 
+## 作者：xi9w
+
 ## 投稿者：kcwt
 
 ## 游戏截图：
