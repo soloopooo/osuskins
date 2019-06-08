@@ -5,7 +5,7 @@ subtitle: '嗯，cute'
 date: 2019-04-20
 categories: 皮肤
 cover: 'https://i.postimg.cc/QxC6RvNz/screenshot094.jpg'
-tags: 皮肤 cute
+tags: std mania ctb
 ---
 
 ## 作者：Mitsuruko&bitterness

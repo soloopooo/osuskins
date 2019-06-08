@@ -5,7 +5,7 @@ subtitle: '在方形的世界里探索圆形节拍'
 date: 2019-04-20
 categories: 皮肤
 cover: 'https://i.postimg.cc/qq2KN9np/screenshot155.jpg'
-tags: 皮肤 其他音游 VOEZ 多版本
+tags: std taiko mania ctb
 ---
 
 ## 作者： Lots of people（一大堆人）

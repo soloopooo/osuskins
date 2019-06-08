@@ -5,7 +5,7 @@ subtitle: '参见樱初音殿下！'
 date: 2019-04-20
 categories: 皮肤
 cover: 'https://i.postimg.cc/DwcjbGg9/screenshot133.jpg'
-tags: 皮肤 Miku Sakura
+tags: std
 ---
 
 ## 作者：Jelsa Frozen

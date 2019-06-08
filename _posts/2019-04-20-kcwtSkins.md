@@ -5,7 +5,7 @@ subtitle: '油管 skins! 的skin'
 date: 2019-04-20
 categories: 皮肤
 cover: 'https://i.postimg.cc/dtFPS3v4/screenshot176.jpg'
-tags: 皮肤 Youtube
+tags: std mania ctb taiko
 ---
 
 ## 作者：xi9w
