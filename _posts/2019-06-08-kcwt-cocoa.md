@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cocoa Hoto ''
+title: 'Cocoa Hoto '
 subtitle: '兔子啊兔子（'
 date: 2019-06-08
 categories: 皮肤
