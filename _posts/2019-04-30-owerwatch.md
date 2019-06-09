@@ -5,7 +5,7 @@ subtitle: '这是...守望先(pi)锋(gu)?'
 date: 2019-04-30
 categories: 皮肤
 cover: 'https://i.postimg.cc/4NNGZg82/screenshot198.jpg'
-tags: 皮肤 Overwatch 其他游戏改编
+tags: std
 ---
 
 ## 作者：[Sycranet]

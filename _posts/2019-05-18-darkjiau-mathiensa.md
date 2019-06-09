@@ -5,7 +5,7 @@ subtitle: 'mathi ensalada（邮箱投稿）'
 date: 2019-05-18
 categories: 皮肤
 cover: 'https://i.postimg.cc/pXs9Z8n8/screenshot104.png'
-tags: 皮肤 邮箱投稿 mathi
+tags: std mania
 ---
 
 ## 投稿者：DARK jiau [(darkjiau@outlook.com)](mailto:darkjiau@outlook.com)
