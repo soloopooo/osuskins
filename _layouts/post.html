@@ -4,9 +4,6 @@
     <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 
 {% include post-head.html %}
-
-<script src="asstes/js/readprogress.js"></script>
-<link rel="stylesheet" href="assets/css/bootstrap.min.css">
   
 <body>
   <!--[if lt IE 10]>
@@ -125,7 +122,7 @@
 
   {% include footer.html %}
 
-  <script src="/assets/js/social-share.min.js"></script>
+  <script src="../../../assets/js/social-share.min.js"></script>
   <script>
     socialShare('.social-share', {
       sites: [
@@ -174,8 +171,8 @@
       })
       gitalk.render('gitalk_container')
     </script>
-  <script src="/assets/js/prism.js"></script>
-  <script src="/assets/js/index.min.js"></script>
+  <script src="../../../assets/js/prism.js"></script>
+  <script src="../../../assets/js/index.min.js"></script>
 </body>
 <style>
   .scroll-indicator {
@@ -189,5 +186,14 @@
   background: linear-gradient(#329, #158, #523, #950 #4A8 , #66a); 
 }
   </style>
+  <script>(function() {
+      var dh = $(document).height();
+      var vh = $(window).height();
+      var sHeight = dh - vh;
+      $(window).scroll(function () {  
+        var perc = $(window).scrollTop() / (dh - vh);
+        $('.j-scroll-indicator').css({width: perc * 100 + '%'});
+  });  
+  }());</script>
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 </html>
