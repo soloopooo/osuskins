@@ -325,12 +325,10 @@ $.preload(imgs, {
     var b="{{ site.my.numall }}";//config.yml定义变量
     var a=(i/b*100);//计算百分比
     a=a.toFixed(2);
-    function ah(){
     var sr0d
     sr0d = document.getElementsByClassName('progress-bar progress-bar-success progress-bar-striped active');
     sr0d[0].style.width = (a)+"%";//设置进度条宽度
     var e= document.getElementsByClassName('progress-value')
     e[0].innerHTML = a+"%";//设置进度条显示
-    }
-    ah()
+
 </script>
