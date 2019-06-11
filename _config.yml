@@ -9,7 +9,7 @@ baseurl: ''
 
 # tongji
 my:
-  numall: '100'
+  numall: '183'
 # Navigation links
 nav:
   公告: '/forall'
