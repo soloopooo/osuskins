@@ -5,14 +5,15 @@
 
 {% include post-head.html %}
 
- 
+<script src="asstes/js/readprogress.js"></script>
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
   
 <body>
   <!--[if lt IE 10]>
 <div class="alert-danger" role="alert">你的浏览器实在太太太旧了，放学别走，升级完浏览器再说！<a target="_blank" class="alert-link" href="http://browsehappy.com">立即升级</a></div>
 <![endif]-->
   <input id="nm-switch" type="hidden" value="{{ site.nightMode }}"> {% include header.html %}
-
+  
   <header
     class="g-banner post-header {{ site.postPatterns | prepend: 'post-pattern-' }} {{ site.theme-color | prepend: 'bgcolor-' }} {% unless page.cover %}post-no-cover{% endunless %}"
     data-theme="{{ site.theme-color }}"
@@ -44,6 +45,7 @@
 
  
   <div class="post-content visible">
+      <div class="scroll-indicator j-scroll-indicator"></div>
     {% if page.subtitle %}
     <h2 class="post-subtitle">{{ page.subtitle }}</h2>
     {% endif %}
@@ -175,5 +177,17 @@
   <script src="/assets/js/prism.js"></script>
   <script src="/assets/js/index.min.js"></script>
 </body>
-
+<style>
+  .scroll-indicator {
+  position: fixed;
+  height: 8px;
+  top: 0;
+  left: 0;
+  background: -webkit-linear-gradient(#329, #158, #523, #950 #4A8 , #66a); /* Safari 5.1 - 6.0 */
+  background: -o-linear-gradient(#329, #158, #523, #950 #4A8 , #66a); /* Opera 11.1 - 12.0 */
+  background: -moz-linear-gradient(#329, #158, #523, #950 #4A8 , #66a); /* Firefox 3.6 - 15 */
+  background: linear-gradient(#329, #158, #523, #950 #4A8 , #66a); 
+}
+  </style>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 </html>
