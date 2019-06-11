@@ -7,6 +7,9 @@ url: '' # your host
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
 
+# tongji
+my:
+  numall: '100'
 # Navigation links
 nav:
   公告: '/forall'
