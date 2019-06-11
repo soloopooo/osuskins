@@ -324,7 +324,7 @@ $.preload(imgs, {
     var i="{{ paginator.total_posts }}";//统计所有数量
     var b="{{ site.my.numall }}";//config.yml定义变量
     var a=(i/b*100);//计算百分比
-    a=a.toFixed(2);
+    a=a.toFixed(5);
     var sr0d
     sr0d = document.getElementsByClassName('progress-bar progress-bar-success progress-bar-striped active');
     sr0d[0].style.width = (a)+"%";//设置进度条宽度
