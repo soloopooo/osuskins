@@ -1,6 +1,6 @@
 ---
-layout: post
-title: ' [HD]Girl's Frontline Skin'
+ layout: post
+title: ' [HD]Girl's Frontline Skin '
 subtitle: '普通的少女前线皮，只有HD版本'
 date: 2019-07-07
 categories: 皮肤
