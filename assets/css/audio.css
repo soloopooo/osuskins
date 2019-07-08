@@ -19,7 +19,7 @@ ul li{
 	color: #fff;
 }
 .audio-container{
-	width: 1000px;
+	width: 100%;
 	margin: auto;
 }
 .audio-view{
@@ -27,6 +27,7 @@ ul li{
 	padding-left: 100px;
 	padding-right: 180px;
 	height: 100px;
+	width: 100%;
 }
 .audio-cover{
 	width: 100px;
@@ -53,6 +54,7 @@ ul li{
 	font-size: 20px;
 	line-height: 40px;
 	overflow: hidden;
+	width:750px;
 }
 .audio-backs{
 	position: relative;
@@ -125,7 +127,7 @@ ul li{
 	height: 20px;
 	margin-top: 50px;
 	width: 150px;
-	float: right;
+	float: left;
 }
 .audio-select > div{
 	width: 20px;

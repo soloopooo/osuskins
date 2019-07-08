@@ -1,0 +1,184 @@
+---
+title: 升级
+layout: default
+---
+{% include header.html %}
+
+
+<style>
+/**
+ * 按钮的点击动画效果,2018年1月12日09:36:48
+ **/
+input.btn {
+  display: inline-block;
+/*   margin: 15px 15px 0;
+  padding: .6em 1.1em; */
+  font-size: 12px;
+  font-size: 1.625rem;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #fe4365;
+  border-radius: 3px;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  -webkit-box-shadow: 0 0 0 -2px #cff09e, 0 0 0 -1px #fe4365;
+  box-shadow: 0 0 0 -2px #cff09e, 0 0 0 -1px #fe4365;
+  border: none;
+  -webkit-transition: -webkit-box-shadow .3s;
+  transition: box-shadow .3s;
+}
+input.btn:hover, input.btn:focus {
+	-webkit-box-shadow: 0 0 0 2px #cff09e, 0 0 0 4px #ff0364;
+    box-shadow: 0 0 0 0.5px rgb(1, 190, 188), 0 0 0 0.5px #19C1C0;
+    -webkit-transition-timing-function: cubic-bezier(0.6, 4, 0.3, 0.8);
+    transition-timing-function: cubic-bezier(0.6, 4, 0.3, 0.8);
+    -webkit-animation: gelatine 0.5s 1;
+    animation: gelatine 0.5s 1;
+  /* -webkit-box-shadow: 0 0 0 2px #cff09e, 0 0 0 4px #ff0364;
+  box-shadow: 0 0 0 2px #cff09e, 0 0 0 4px #ff0364;
+  -webkit-transition-timing-function: cubic-bezier(0.6, 4, 0.3, 0.8);
+  transition-timing-function: cubic-bezier(0.6, 4, 0.3, 0.8);
+  -webkit-animation: gelatine 0.5s 1;
+  animation: gelatine 0.5s 1; */
+}
+ 
+input.btn:active {
+  background: #4ecdc4;
+  -webkit-transition-duration: 0;
+  transition-duration: 0;
+  -webkit-box-shadow: 0 0 0 2px #cff09e, 0 0 0 4px #3ac7bd;
+  box-shadow: 0 0 0 2px #cff09e, 0 0 0 4px #3ac7bd;
+}
+ 
+/**
+ * $keyframes \ gelatine 
+ **/
+@keyframes gelatine {
+  from, to {
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+ 
+  25% {
+    -webkit-transform: scale(0.9, 1.05);
+    transform: scale(0.9, 1.1);
+  }
+ 
+  50% {
+    -webkit-transform: scale(1.1, 0.9);
+    transform: scale(1.1, 0.9);
+  }
+ 
+  75% {
+    -webkit-transform: scale(0.95, 1.05);
+    transform: scale(0.95, 1.05);
+  }
+ 
+  from, to {
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+ 
+  25% {
+    -webkit-transform: scale(0.98, 1.01);
+    transform: scale(0.98, 1.01);
+  }
+ 
+  50% {
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+ 
+  75% {
+    -webkit-transform: scale(0.98, 1.01);
+    transform: scale(0.98, 1.01);
+  }
+}
+@-webkit-keyframes gelatine {
+  from, to {
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+ 
+  25% {
+    -webkit-transform: scale(0.9, 1.1);
+    transform: scale(0.9, 1.1);
+  }
+ 
+  50% {
+    -webkit-transform: scale(1.1, 0.9);
+    transform: scale(1.1, 0.9);
+  }
+ 
+  75% {
+    -webkit-transform: scale(0.95, 1.05);
+    transform: scale(0.95, 1.05);
+  }
+ 
+  from, to {
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+ 
+  25% {
+    -webkit-transform: scale(0.98, 1.01);
+    transform: scale(0.98, 1.01);
+  }
+ 
+  50% {
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+ 
+  75% {
+    -webkit-transform: scale(0.98, 1.01);
+    transform: scale(0.98, 1.01);
+  }
+}
+        h1{
+            text-align: center;
+            color: #F00;
+        }
+        
+        .mas{
+            text-align : center;
+            color:#948
+        }
+        #numb1{
+            text-align: center;
+        }
+        #numb2{
+            text-align: center;
+        }
+        #numb3{
+            text-align: center;
+        }
+        #numb4{
+            text-align: center;
+        }
+        main{
+            color: #948
+        }
+        </style>
+         <main>
+                <div class="g-banner tags-banner {{ site.postPatterns | prepend: 'post-pattern-' }}  {{ site.theme-color | prepend: 'bgcolor-' }} "data-theme="{{ site.theme-color }}">
+                    </div>
+    <h1>升级</h1>
+    <div class="mas">
+ <h3>最新版本：</h3>
+ <h3>版本号：</h3>
+ <div id="numb1">{{ site.app.new }}</div>
+ <h3>发布时间：</h3>
+ <div id="numb2">{{ site.app.time }}</div>
+ <h3>更新内容：</h3>
+ <div id="numb3">{{ site.app.whatsnew }}</div>
+ <h3>大小：</h3>
+ <div id="numb4">{{ site.app.size }}</div>
+
+
+<div id="btn">	<a href="{{ site.app.dl }}"><input class="btn" style="cursor:pointer;" id="dl" type="button" value="下载"></a>
+</div>
+    </div>
+         </main>
+         {% include footer.html %}

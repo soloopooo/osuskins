@@ -123,10 +123,11 @@ $.preload(imgs, {
     <aside class="g-sidebar-wrapper">
         <div class="g-sidebar">
                 <section class="progress-b">
-                        <div>目前皮肤数：{{ paginator.total_posts }} <br>
+                        <div>目前皮肤数：<div id="ssss">{{ paginator.total_posts }}</div> <br>
                             目标：{{ site.my.numall }}
                         </div>
                         <style>
+                            #ssss{display:inline;}
                             .progress{
                       height: 25px;
                       background: #262626;
@@ -330,7 +331,7 @@ $.preload(imgs, {
     var sr0d
     sr0d = document.getElementsByClassName('progress-bar progress-bar-success progress-bar-striped active');
     sr0d[0].style.width = (a)+"%";//设置进度条宽度
-    var e= document.getElementsByClassName('progress-value')
+    var e= document.getElementsByClassName('progress-value');
     e[0].innerHTML = a+"%";//设置进度条显示
 
 </script>

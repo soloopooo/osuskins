@@ -1,0 +1,131 @@
+---
+title: 目标进度条
+layout: default
+---
+{% include header.html %}
+
+<style>
+    h1{
+        text-align: center;
+        color: #F00;
+    }
+    .req{
+        display:inline;
+    }
+    .progress-b{
+        width:100%;
+    }
+    .mas{
+        text-align : center;
+        color:#948
+    }
+    </style>
+    <main>
+            <div class="g-banner tags-banner {{ site.postPatterns | prepend: 'post-pattern-' }}  {{ site.theme-color | prepend: 'bgcolor-' }}" data-theme="{{ site.theme-color }}">
+                </div>
+<h1>目标进度条</h1>
+        <section class="progress-b">
+                <div class="mas">目前皮肤数：<div class="req"></div> <br>
+                    目标：{{ site.my.numall }}
+                </div>
+                <style>
+                    .progress{
+              height: 25px;
+              background: #262626;
+              padding: 5px;
+              overflow: visible;
+              border-radius: 20px;
+              border-top: 1px solid #000;
+              border-bottom: 1px solid #7992a8;
+              margin-top: 50px;
+          }
+          .progress .progress-bar{
+              border-radius: 20px;
+              position: relative;
+              animation: animate-positive 2s;
+          }
+          .progress .progress-value{
+              display: block;
+              padding: 3px 7px;
+              font-size: 13px;
+              color: #fff;
+              border-radius: 4px;
+              background: #191919;
+              border: 1px solid #000;
+              position: absolute;
+              top: -40px;
+              right: -50px;
+          }
+          .progress .progress-value:after{
+              content: "";
+              border-top: 10px solid #191919;
+              border-left: 10px solid transparent;
+              border-right: 10px solid transparent;
+              position: absolute;
+              bottom: -6px;
+              left: 26%;
+          }
+          .progress-bar.active{
+              animation: reverse progress-bar-stripes 1.20s linear infinite, animate-positive 2s;
+          }
+          @-webkit-keyframes animate-positive{
+              0% { width: 0; }
+          }
+          @keyframes animate-positive{
+              0% { width: 0; }
+          }
+          </style>
+            <div class="progress" style="height: 35px;">
+                <div class="progress-bar progress-bar-success progress-bar-striped active" style="width: ;"> 
+                    <div class="progress-value"></div> 
+                </div>
+            </div>
+            </section>
+    </main>
+    <iframe id="x" name="x" style="display: none;" src="/index.html"></iframe>
+
+{% include footer.html %}
+
+<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function(e){  
+    　　    var iframe = document.getElementById("x");    
+        if (iframe.attachEvent) {    
+            iframe.attachEvent("onload", function() {  
+                 var i = document.getElementById("x").contentWindow.document.getElementById("ssss").innerHTML; 
+                //统计所有数量
+                var b="{{ site.my.numall }}";//config.yml定义变量
+    var a=(i/b*100);//计算百分比
+    a=a.toFixed(5);
+    var sr0d
+    sr0d = document.getElementsByClassName('progress-bar progress-bar-success progress-bar-striped active');
+    sr0d[0].style.width = (a)+"%";//设置进度条宽度
+    var e= document.getElementsByClassName('progress-value');
+    e[0].innerHTML = a+"%";//设置进度条显示
+    var m= document.getElementsByClassName('req');
+    m[0].innerHTML = i  ;
+                //iframe加载完成后你需要进行的操作  
+            });    
+        } else {    
+            iframe.onload = function() {    
+                var i = document.getElementById("x").contentWindow.document.getElementById("ssss").innerHTML; 
+                //统计所有数量
+                var b="{{ site.my.numall }}";//config.yml定义变量
+    var a=(i/b*100);//计算百分比
+    a=a.toFixed(5);
+    var sr0d
+    sr0d = document.getElementsByClassName('progress-bar progress-bar-success progress-bar-striped active');
+    sr0d[0].style.width = (a)+"%";//设置进度条宽度
+    var e= document.getElementsByClassName('progress-value');
+    e[0].innerHTML = a+"%";//设置进度条显示
+    var m= document.getElementsByClassName('req');
+    m[0].innerHTML = i  ;
+                      //iframe加载完成后你需要进行的操作  
+            };    
+        }    
+        //if...else...是一种兼容ie的写法
+    });
+   
+</script>
+
