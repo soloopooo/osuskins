@@ -10,11 +10,11 @@ baseurl: ''
 # app
 
 app:
-  dl: '\app\osuskin_0.4.2.apk'
-  new: '0.4.2'
+  dl: '\app\osuskin_0.4.3.apk'
+  new: '0.4.3'
   time: '2019年07月08日'
-  whatsnew: '1.清除了首页音乐栏</br>2.支持一键加群</br>3.可以同时访问我的博客'
-  size: '1,553KB'
+  whatsnew: '1.侧边栏添加查看目标进度条功能<s>（可以催更）</s></br>2.<s>解决了某位石锤我的app的人</s>'
+  size: '1,556KB'
 
 # tongji
 my:
