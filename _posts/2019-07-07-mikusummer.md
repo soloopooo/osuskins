@@ -4,7 +4,7 @@ title: ' -      ( mikuSummer )      - '
 subtitle: 'MikuSama in summer!'
 date: 2019-07-07
 categories: 皮肤
-cover: 'https://i.postimg.cc/J0TtZfDc/screenshot326.jpg'
+cover: 'https://i.loli.net/2019/07/11/5d26eb8de1b8a40687.jpg'
 tags: std
 ---
 
@@ -14,16 +14,11 @@ tags: std
  
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/wj1Rcjkt/screenshot323.jpg">
-
-<img src="https://i.postimg.cc/dVgkWcW5/screenshot324.jpg">
-
-<img src="https://i.postimg.cc/5y96H402/screenshot325.jpg">
-
-<img src="https://i.postimg.cc/J0TtZfDc/screenshot326.jpg">
-
-<img src="https://i.postimg.cc/pVkmwFGh/screenshot327.jpg">
-
+![screenshot327.jpg](https://i.loli.net/2019/07/11/5d26eb8de1b8a40687.jpg)
+![screenshot323.jpg](https://i.loli.net/2019/07/11/5d26eb901233945430.jpg)
+![screenshot324.jpg](https://i.loli.net/2019/07/11/5d26eb91bd4b244986.jpg)
+![screenshot325.jpg](https://i.loli.net/2019/07/11/5d26eb938a41851163.jpg)
+![screenshot326.jpg](https://i.loli.net/2019/07/11/5d26eb9546ab929400.jpg)
 
 ## 下载链接：
 

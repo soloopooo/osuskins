@@ -4,7 +4,7 @@ title: ' [HD]Girls Frontline Skin '
 subtitle: '普通的少女前线皮，只有HD版本'
 date: 2019-07-07
 categories: 皮肤
-cover: 'https://i.postimg.cc/Vk2gXTX8/screenshot388.jpg'
+cover: 'https://i.loli.net/2019/07/11/5d26ed5ddc53c26861.jpg'
 tags: std
 ---
 
@@ -14,21 +14,14 @@ tags: std
 
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/59msDsWB/screenshot385.jpg">
-
-<img src="https://i.postimg.cc/PrrSH1dB/screenshot386.jpg">
-
-<img src="https://i.postimg.cc/mgPVzRzj/screenshot387.jpg">
-
-<img src="https://i.postimg.cc/Vk2gXTX8/screenshot388.jpg">
-
-<img src="https://i.postimg.cc/mrMwjwSF/screenshot389.jpg">
-
-<img src="https://i.postimg.cc/ydHTbZfp/screenshot390.jpg">
-
-<img src="https://i.postimg.cc/br6HrFq4/screenshot391.jpg">
-
-<img src="https://i.postimg.cc/bNB9jMCt/screenshot392.jpg">
+![screenshot392.jpg](https://i.loli.net/2019/07/11/5d26ed565fea065036.jpg)
+![screenshot385.jpg](https://i.loli.net/2019/07/11/5d26ed58895ea24732.jpg)
+![screenshot386.jpg](https://i.loli.net/2019/07/11/5d26ed5b0e18f98125.jpg)
+![screenshot387.jpg](https://i.loli.net/2019/07/11/5d26ed5ddc53c26861.jpg)
+![screenshot388.jpg](https://i.loli.net/2019/07/11/5d26ed605fa8390837.jpg)
+![screenshot389.jpg](https://i.loli.net/2019/07/11/5d26ed621cd5551595.jpg)
+![screenshot390.jpg](https://i.loli.net/2019/07/11/5d26ed64a56b267435.jpg)
+![screenshot391.jpg](https://i.loli.net/2019/07/11/5d26ed668dcdd33660.jpg)
 
 ## 下载链接：
 

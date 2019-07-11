@@ -4,7 +4,7 @@ title: ' -Asuka Langley- '
 subtitle: '   '
 date: 2019-07-07
 categories: 皮肤
-cover: 'https://i.postimg.cc/t48bPSsQ/35O9lxP.jpg'
+cover: 'https://i.loli.net/2019/07/11/5d26ef2db2ba091967.jpg'
 tags: std
 ---
 
@@ -14,17 +14,12 @@ tags: std
  
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/t48bPSsQ/35O9lxP.jpg">
-
-<img src="https://i.postimg.cc/9MhjgDPL/C3WaW3D.jpg">
-
-<img src="https://i.postimg.cc/x8jVYB4H/KUrq73e.jpg">
-
-<img src="https://i.postimg.cc/FFGQGsYx/Vv3b8jw.jpg">
-
-<img src="https://i.postimg.cc/g099rx7G/w9Uh8Zf.jpg">
-
-<img src="https://i.postimg.cc/zB59S95M/yK5U3Mn.jpg">
+![35O9lxP.jpg](https://i.loli.net/2019/07/11/5d26ef2db2ba091967.jpg)
+![C3WaW3D.jpg](https://i.loli.net/2019/07/11/5d26ef2fe55fd21077.jpg)
+![KUrq73e.jpg](https://i.loli.net/2019/07/11/5d26ef31a800b58006.jpg)
+![Vv3b8jw.jpg](https://i.loli.net/2019/07/11/5d26ef337265d93649.jpg)
+![w9Uh8Zf.jpg](https://i.loli.net/2019/07/11/5d26ef35600c858113.jpg)
+![yK5U3Mn.jpg](https://i.loli.net/2019/07/11/5d26ef373c70d10796.jpg)
 
 
 ## 下载链接：
