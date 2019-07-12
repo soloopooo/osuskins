@@ -4,7 +4,7 @@ title: '- Lines -'
 subtitle: 'leileleile'
 date: 2019-05-02
 categories: 皮肤
-cover: 'https://i.postimg.cc/CLLw4TTV/screenshot217.jpg'
+cover: 'https://i.loli.net/2019/07/12/5d27dbdea9c4684146.jpg'
 tags: std
 ---
 
@@ -12,18 +12,12 @@ tags: std
 
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/6QGWGrs2/screenshot214.jpg">
-
-<img src="https://i.postimg.cc/sXY3T3g3/screenshot215.jpg">
-
-<img src="https://i.postimg.cc/T2cRm2s9/screenshot216.jpg">
-
-<img src="https://i.postimg.cc/CLLw4TTV/screenshot217.jpg">
-
-<img src="https://i.postimg.cc/jdgtggtn/screenshot218.jpg">
-
-<img src="https://i.postimg.cc/htNggXJS/screenshot219.jpg">
-
+![screenshot219.jpg](https://i.loli.net/2019/07/12/5d27dbde6982321204.jpg)
+![screenshot215.jpg](https://i.loli.net/2019/07/12/5d27dbde7e14245050.jpg)
+![screenshot214.jpg](https://i.loli.net/2019/07/12/5d27dbde8ba0135711.jpg)
+![screenshot216.jpg](https://i.loli.net/2019/07/12/5d27dbde988b551777.jpg)
+![screenshot218.jpg](https://i.loli.net/2019/07/12/5d27dbdea9c4684146.jpg)
+![screenshot217.jpg](https://i.loli.net/2019/07/12/5d27dbdeb4a5e73978.jpg)
 
 ## 下载链接：
 

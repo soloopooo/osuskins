@@ -4,7 +4,7 @@ title: 'Narukiko`s skin'
 subtitle: '懒得写简介'
 date: 2019-06-14
 categories: 皮肤
-cover: 'https://i.postimg.cc/wMRPwVwH/KNtdtER.jpg'
+cover: 'https://i.loli.net/2019/07/12/5d27d475cb00746561.jpg'
 tags: std 
 ---
 
@@ -16,32 +16,19 @@ tags: std
 
 （本皮肤图片数量较多（13张），请稍等。）
 
-<img src="https://i.postimg.cc/K8hXs6XW/5blZRa9.jpg">
-
-<img src="https://i.postimg.cc/XvnRn9Yc/9utCdQZ.jpg">
-
-<img src="https://i.postimg.cc/SKVwRjX0/BTc97vX.jpg">
-
-<img src="https://i.postimg.cc/HxxFyH5r/HMxJEoG.jpg">
-
-<img src="https://i.postimg.cc/26KMdJF2/j1TI24d.jpg">
-
-<img src="https://i.postimg.cc/wMRPwVwH/KNtdtER.jpg">
-
-<img src="https://i.postimg.cc/F1t68L6S/lXpAMQv.jpg">
-
-<img src="https://i.postimg.cc/Y24CcBV2/MkFzndI.jpg">
-
-<img src="https://i.postimg.cc/ryvFMYX1/NlrFVfR.jpg">
-
-<img src="https://i.postimg.cc/qMyBRX49/VLHz4Mg.jpg">
-
-<img src="https://i.postimg.cc/13K90mgB/vLoMkjh.jpg">
-
-<img src="https://i.postimg.cc/Pqrd2gYj/vTBwGO8.jpg">
-
-<img src="https://i.postimg.cc/wBfgPwQs/xQ91nVH.jpg">
-
+![VLHz4Mg.jpg](https://i.loli.net/2019/07/12/5d27d46e5166174656.jpg)
+![5blZRa9.jpg](https://i.loli.net/2019/07/12/5d27d4700118722434.jpg)
+![9utCdQZ.jpg](https://i.loli.net/2019/07/12/5d27d471a5c9d51132.jpg)
+![BTc97vX.jpg](https://i.loli.net/2019/07/12/5d27d4735c9bd13635.jpg)
+![HMxJEoG.jpg](https://i.loli.net/2019/07/12/5d27d475cb00746561.jpg)
+![j1TI24d.jpg](https://i.loli.net/2019/07/12/5d27d47795d9533626.jpg)
+![KNtdtER.jpg](https://i.loli.net/2019/07/12/5d27d4795d4c140655.jpg)
+![lXpAMQv.jpg](https://i.loli.net/2019/07/12/5d27d47b15eec30851.jpg)
+![MkFzndI.jpg](https://i.loli.net/2019/07/12/5d27d47cc2fce30084.jpg)
+![NlrFVfR.jpg](https://i.loli.net/2019/07/12/5d27d47ecbfb562228.jpg)
+![xQ91nVH.jpg](https://i.loli.net/2019/07/12/5d27d48b3d1d837527.jpg)
+![vLoMkjh.jpg](https://i.loli.net/2019/07/12/5d27d48d0cb9875689.jpg)
+![vTBwGO8.jpg](https://i.loli.net/2019/07/12/5d27d48ee461e25877.jpg)
 
 
 ## 下载链接：

@@ -4,7 +4,7 @@ title: 'Suwako'
 subtitle: '自制皮肤，请评论！'
 date: 2019-06-10
 categories: 皮肤
-cover: 'https://i.postimg.cc/7ZTML4WB/screenshot125.jpg'
+cover: 'https://i.loli.net/2019/07/12/5d27d98f0e23a52019.jpg'
 tags: std mania ctb
 ---
 
@@ -14,20 +14,13 @@ tags: std mania ctb
  
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/zvkPwVmD/screenshot274.jpg">
-
-<img src="https://i.postimg.cc/sfP8C0BF/screenshot276.jpg">
-
-<img src="https://i.postimg.cc/mgk6MLmR/screenshot277.jpg">
-
-<img src="https://i.postimg.cc/50dPZwbN/screenshot278.jpg">
-
-<img src="https://i.postimg.cc/sDDndfdS/screenshot279.jpg">
-
-<img src="https://i.postimg.cc/CLPcFyS2/screenshot280.jpg">
-
-<img src="https://i.postimg.cc/NjKpFN0j/screenshot281.jpg">
-
+![screenshot274.jpg](https://i.loli.net/2019/07/12/5d27d98eecfd089423.jpg)
+![screenshot278.jpg](https://i.loli.net/2019/07/12/5d27d98f0e23a52019.jpg)
+![screenshot280.jpg](https://i.loli.net/2019/07/12/5d27d98f1c58b70631.jpg)
+![screenshot279.jpg](https://i.loli.net/2019/07/12/5d27d98f279b888055.jpg)
+![screenshot277.jpg](https://i.loli.net/2019/07/12/5d27d98f3485044808.jpg)
+![screenshot281.jpg](https://i.loli.net/2019/07/12/5d27d98f4404b53767.jpg)
+![screenshot276.jpg](https://i.loli.net/2019/07/12/5d27d98f5141982053.jpg)
 
 ## 下载链接：
 

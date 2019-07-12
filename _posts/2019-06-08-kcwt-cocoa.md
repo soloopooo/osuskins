@@ -4,7 +4,7 @@ title: 'Cocoa Hoto '
 subtitle: '兔子啊兔子（'
 date: 2019-06-08
 categories: 皮肤
-cover: 'https://i.postimg.cc/mgJbwMZ2/screenshot239.jpg'
+cover: 'https://i.loli.net/2019/07/12/5d27d9fa5743e54466.jpg'
 tags: std ctb
 ---
 
@@ -14,16 +14,11 @@ tags: std ctb
 
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/KvcvvxsF/screenshot236.jpg">
-
-<img src="https://i.postimg.cc/ncdVXg6m/screenshot237.jpg">
-
-<img src="https://i.postimg.cc/5264LpVR/screenshot238.jpg">
-
-<img src="https://i.postimg.cc/mgJbwMZ2/screenshot239.jpg">
-
-<img src="https://i.postimg.cc/PqDdFxNb/screenshot240.jpg">
-
+![screenshot236.jpg](https://i.loli.net/2019/07/12/5d27d9fa4349e18733.jpg)
+![screenshot239.jpg](https://i.loli.net/2019/07/12/5d27d9fa5743e54466.jpg)
+![screenshot240.jpg](https://i.loli.net/2019/07/12/5d27d9fa6775a75158.jpg)
+![screenshot238.jpg](https://i.loli.net/2019/07/12/5d27d9fa710de19450.jpg)
+![screenshot237.jpg](https://i.loli.net/2019/07/12/5d27d9fa7b92c15870.jpg)
 
 
 ## 下载链接：
