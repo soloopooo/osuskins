@@ -10,10 +10,10 @@ baseurl: ''
 # app
 
 app:
-  dl: '\app\osuskin_0.4.3.apk'
-  new: '0.4.3'
-  time: '2019年07月08日'
-  whatsnew: '1.侧边栏添加查看目标进度条功能<s>（可以催更）</s></br>2.<s>解决了某位石锤我的app的人</s>'
+  dl: 'https://github.com/soloopooo/osuskins/releases/download/0.4.3.2/osuskin_0.4.3.2.apk'
+  new: '0.4.3.2'
+  time: '2019年07月12日'
+  whatsnew: '1.支持页面加载完成后显示</br>2.添加了其他功能'
   size: '1,556KB'
 
 # tongji
