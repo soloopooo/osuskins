@@ -14,16 +14,11 @@ tags: std
 
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/G3D8Ykdn/screenshot195.jpg">
-
-<img src="https://i.postimg.cc/Yq3SfRPZ/screenshot196.jpg">
-
-<img src="https://i.postimg.cc/Kc5bdz5g/screenshot197.jpg">
-
-<img src="https://i.postimg.cc/4NNGZg82/screenshot198.jpg">
-
-<img src="https://i.postimg.cc/wvpKr8yV/screenshot199.jpg">
-
+![screenshot195.jpg](https://i.loli.net/2019/07/14/5d2af8c3eef9e91526.jpg)
+![screenshot196.jpg](https://i.loli.net/2019/07/14/5d2af8c5bfc4b28526.jpg)
+![screenshot197.jpg](https://i.loli.net/2019/07/14/5d2af8c795e0520570.jpg)
+![screenshot198.jpg](https://i.loli.net/2019/07/14/5d2af8c96627021868.jpg)
+![screenshot199.jpg](https://i.loli.net/2019/07/14/5d2af8cb3161932275.jpg)
 
 
 ## 下载链接：

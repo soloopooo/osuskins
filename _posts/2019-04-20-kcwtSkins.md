@@ -14,21 +14,14 @@ tags: std mania ctb taiko
 
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/ncqVCNVw/screenshot173.jpg">
-
-<img src="https://i.postimg.cc/bYDwjs7P/screenshot172.jpg">
-
-<img src="https://i.postimg.cc/CMqSQ98L/screenshot174.jpg">
-
-<img src="https://i.postimg.cc/ZqQzfLKd/screenshot175.jpg">
-
-<img src="https://i.postimg.cc/dtFPS3v4/screenshot176.jpg">
-
-<img src="https://i.postimg.cc/QNpv5D55/screenshot177.jpg">
-
-<img src="https://i.postimg.cc/kGnsK03F/screenshot178.jpg">
-
-<img src="https://i.postimg.cc/qvtLscYY/screenshot179.jpg">
+![screenshot173.jpg](https://i.loli.net/2019/07/14/5d2afd6a4fcba37355.jpg)
+![screenshot174.jpg](https://i.loli.net/2019/07/14/5d2afd6c110e169586.jpg)
+![screenshot175.jpg](https://i.loli.net/2019/07/14/5d2afd6dde16545702.jpg)
+![screenshot176.jpg](https://i.loli.net/2019/07/14/5d2afd6fc480225442.jpg)
+![screenshot177.jpg](https://i.loli.net/2019/07/14/5d2afd71a19b673802.jpg)
+![screenshot178.jpg](https://i.loli.net/2019/07/14/5d2afd73708de90539.jpg)
+![screenshot179.jpg](https://i.loli.net/2019/07/14/5d2afd755221f12040.jpg)
+![screenshot172.jpg](https://i.loli.net/2019/07/14/5d2afd771660948440.jpg)
 
 
 ## 下载链接：

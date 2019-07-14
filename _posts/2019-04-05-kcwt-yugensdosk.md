@@ -14,19 +14,13 @@ tags: std mania ctb taiko
 
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/Sx5TZVwP/screenshot120.jpg">
-
-<img src="https://i.postimg.cc/rs8QdHrD/screenshot121.jpg">
-
-<img src="https://i.postimg.cc/7Ytm6mYL/screenshot122.jpg">
-
-<img src="https://i.postimg.cc/qvtQCyzx/screenshot123.jpg">
-
-<img src="https://i.postimg.cc/KYBN0b7K/screenshot124.jpg">
-
-<img src="https://i.postimg.cc/7ZTML4WB/screenshot125.jpg">
-
-<img src="https://i.postimg.cc/s2YYpcy7/screenshot126.jpg">
+![screenshot121.jpg](https://i.loli.net/2019/07/14/5d2b022c1b0a081747.jpg)
+![screenshot122.jpg](https://i.loli.net/2019/07/14/5d2b022f077a870305.jpg)
+![screenshot123.jpg](https://i.loli.net/2019/07/14/5d2b0230cb44046369.jpg)
+![screenshot124.jpg](https://i.loli.net/2019/07/14/5d2b02329ccdf30869.jpg)
+![screenshot125.jpg](https://i.loli.net/2019/07/14/5d2b023467ac191437.jpg)
+![screenshot126.jpg](https://i.loli.net/2019/07/14/5d2b023652b2867957.jpg)
+![screenshot120.jpg](https://i.loli.net/2019/07/14/5d2b02384dcc580630.jpg)
 
 
 ## 下载链接：

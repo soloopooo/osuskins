@@ -14,23 +14,14 @@ tags: std mania ctb
 
 ## 游戏截图：
 
-<img src="https://i.postimg.cc/nr4HZM1H/screenshot091.jpg">
-
-<img src="https://i.postimg.cc/656sTHWV/screenshot092.jpg">
-
-<img src="https://i.postimg.cc/ZnTQBRSY/screenshot093.jpg">
-
-
-<img src="https://i.postimg.cc/QxC6RvNz/screenshot094.jpg">
-
-
-<img src="https://i.postimg.cc/GpFzFCz4/screenshot095.jpg">
-
-<img src="https://i.postimg.cc/BQRCR6V8/screenshot096.jpg">
-
-<img src="https://i.postimg.cc/PxK47Qgh/screenshot097.jpg">
-
-<img src="https://i.postimg.cc/PJx4n8HD/screenshot098.jpg">
+![screenshot095.jpg](https://i.loli.net/2019/07/14/5d2afeaa29efe23906.jpg)
+![screenshot096.jpg](https://i.loli.net/2019/07/14/5d2afeac0286a97606.jpg)
+![screenshot097.jpg](https://i.loli.net/2019/07/14/5d2afeadc606f59756.jpg)
+![screenshot098.jpg](https://i.loli.net/2019/07/14/5d2afeaf9288b74032.jpg)
+![screenshot091.jpg](https://i.loli.net/2019/07/14/5d2afeb1581cb13965.jpg)
+![screenshot092.jpg](https://i.loli.net/2019/07/14/5d2afeb35254598184.jpg)
+![screenshot093.jpg](https://i.loli.net/2019/07/14/5d2afeb52188646315.jpg)
+![screenshot094.jpg](https://i.loli.net/2019/07/14/5d2afeb6ebbb342598.jpg)
 
 ## 下载链接：
 
