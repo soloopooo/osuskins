@@ -23,7 +23,7 @@ const dp = new DPlayer({
     video: {
         url: 'https://soloopooo.gitee.io/video/ProjectLiquid.mp4',
         pic: '',
-        thumbnails: 'https://moeplayer.b0.upaiyun.com/dplayer/hikarunara_thumbnails.jpg',
+        thumbnails: '../../../thumb/ProjectLiquid.mp4.jpg',
     }
     // subtitle: {
     //     url: 'webvtt.vtt'
