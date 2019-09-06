@@ -11,7 +11,31 @@ tags: std
 ## 作者：kelinimo
 
 ## 投稿者：kcwt
+
+## 游戏视频：(8.06MB)
+
+<div id="dplayer" width="100%" height="100%"></div>
+<script src="../../../assets/js/DPlayer.min.js"></script>
+<script>
+const dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    screenshot: false,
+    video: {
+        url: 'https://soloopooo.gitee.io/video/ProjectLiquid.mp4',
+        pic: '',
+        thumbnails: 'https://moeplayer.b0.upaiyun.com/dplayer/hikarunara_thumbnails.jpg',
+    }
+    // subtitle: {
+    //     url: 'webvtt.vtt'
+    // },
+    // danmaku: {
+    //     id: 'demo',
+    //     api: 'https://api.prprpr.me/dplayer/'
+    // }
+});
+</script>
  
+
 ## 游戏截图：
 
 [![nMEI7n.jpg](https://s2.ax1x.com/2019/09/06/nMEI7n.jpg)](https://imgchr.com/i/nMEI7n)
