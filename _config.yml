@@ -10,11 +10,13 @@ baseurl: ''
 # app
 
 app:
-  dl: 'https://github.com/soloopooo/osuskins/releases/download/0.4.3.2/osuskin_0.4.3.2.apk'
-  new: '0.4.3.2'
-  time: '2019年07月12日'
-  whatsnew: '1.支持页面加载完成后显示</br>2.添加了其他功能'
-  size: '1,556KB'
+  dl: 'https://github.com/soloopooo/osuskins/releases/download/1.0.0.22/osuskin_1.0.0.22.apk'
+  dlx5: 'https://github.com/soloopooo/osuskins/releases/download/1.0.0.22/osuskin-corex5_1.0.0.22.apk'
+  new: '1.0.0.21'
+  time: '2019年11月06日'
+  whatsnew: '1.修复android8以上闪退问题。</br>2.界面大改版，体验升级！</br>3.添加了收藏夹功能。</br>4.还有更多功能等你发现！</br></br>
+Tips：可自行选择原生内核版或腾讯x5内核版。</br>提示：腾讯x5内核版相对于原生版启动速度较慢且无法体验到dplayer的快感，并且没有原生的长按菜单。但是腾讯x5内核版更稳定一些。'
+  size: '原生：1,299KB</br>x5：1289KB'
 
 # tongji
 my:
