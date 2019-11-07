@@ -12,6 +12,36 @@ tags: std
 
 ## 投稿者：kcwt
 
+## 皮肤评级：
+
+<section class="progress-b">
+    <div>观赏性：<div id="look"></div> 
+    </div>
+<div class="progress" style="height: 35px;">
+    <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:93%;"> 
+        <div class="progress-value">9.3</div> 
+    </div>
+</div>
+</section>
+<section class="progress-b">
+    <div>实用性：<div id="look"></div> 
+    </div>
+<div class="progress" style="height: 35px;">
+    <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:72%;"> 
+        <div class="progress-value">7.2</div> 
+    </div>
+</div>
+</section>
+<section class="progress-b">
+    <div>评分：<div id="look"></div> 
+    </div>
+<div class="progress" style="height: 35px;">
+    <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:83%;"> 
+        <div class="progress-value">8.3</div> 
+    </div>
+</div>
+</section>
+
 ## 游戏视频：(8.06MB)
 
 <div id="dplayer" width="100%" height="100%"></div>
