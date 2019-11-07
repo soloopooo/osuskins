@@ -11,6 +11,36 @@ tags: std mania
 ## 作者：OsuMe65
 
 ## 投稿者：soloopooo
+
+## 皮肤评级：
+
+<section class="progress-b">
+    <div>观赏性：
+    </div>
+<div class="progress" style="height: 35px;">
+    <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:93%;"> 
+        <div class="progress-value">9.3</div> 
+    </div>
+</div>
+</section>
+<section class="progress-b">
+    <div>实用性：
+    </div>
+<div class="progress" style="height: 35px;">
+    <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:75%;"> 
+        <div class="progress-value">7.5</div> 
+    </div>
+</div>
+</section>
+<section class="progress-b">
+    <div>评分：
+    </div>
+<div class="progress" style="height: 35px;">
+    <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:87.2%;"> 
+        <div class="progress-value">8.72</div> 
+    </div>
+</div>
+</section>
  
 ## 游戏截图：
 

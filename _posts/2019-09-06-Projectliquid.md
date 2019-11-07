@@ -15,7 +15,7 @@ tags: std
 ## 皮肤评级：
 
 <section class="progress-b">
-    <div>观赏性：<div id="look"></div> 
+    <div>观赏性：
     </div>
 <div class="progress" style="height: 35px;">
     <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:93%;"> 
@@ -24,7 +24,7 @@ tags: std
 </div>
 </section>
 <section class="progress-b">
-    <div>实用性：<div id="look"></div> 
+    <div>实用性：
     </div>
 <div class="progress" style="height: 35px;">
     <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:72%;"> 
@@ -33,7 +33,7 @@ tags: std
 </div>
 </section>
 <section class="progress-b">
-    <div>评分：<div id="look"></div> 
+    <div>评分：
     </div>
 <div class="progress" style="height: 35px;">
     <div class="progress-bar progress-bar-success progress-bar-striped active" style="width:83%;"> 
