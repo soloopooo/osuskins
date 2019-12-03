@@ -1,5 +1,4 @@
-<script>
-    (function(){
+(function(){
         let pageHeight = document.body.scrollHeight || document.documentElement.scrollHeight; // 页面总高度
         let windowHeight = document.documentElement.clientHeight || document.body.clientHeight; // 浏览器视口高度
         let scrollAvail = pageHeight - windowHeight; // 可滚动的高度
@@ -10,4 +9,3 @@
             document.querySelector('.progressdx').style.width = (scrollTop/scrollAvail)*100 + '%';    // 计算占比
         };
     }());
-</script>
