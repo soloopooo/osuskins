@@ -7,7 +7,7 @@
         window.onscroll = function () {
             let scrollTop = document.documentElement.scrollTop || document.body.scrollTop;  // 获取滚动条的高度
             console.log('滚动条的高度：', scrollTop);
-            document.querySelector('.progress').style.width = (scrollTop/scrollAvail)*100 + '%';    // 计算占比
+            document.querySelector('.progressdx').style.width = (scrollTop/scrollAvail)*100 + '%';    // 计算占比
         };
     }());
 </script>
