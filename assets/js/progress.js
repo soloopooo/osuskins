@@ -6,7 +6,7 @@
     window.addEventListener('scroll', function() {
         window.requestAnimationFrame(function() {
             var percent = Math.max(0, Math.min(1, window.pageYOffset / dh));
-            document.querySelector("#progressdx").style.width = percent * 100 + '%';
+            document.querySelector(".progressdx").style.width = percent * 100 + '%';
         })
     }, false);
 })();
