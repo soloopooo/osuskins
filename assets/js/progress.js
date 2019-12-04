@@ -1,6 +1,6 @@
 (function() {
     var wh = window.innerHeight;//页面高度
-    var h = document.getElementsByClassName("visible").getBoundingClientRect().height;//body高度
+    var h = document.$('.visible').getBoundingClientRect().height;//body高度
     var dh = h - wh;
     window.addEventListener('scroll', function() {
         window.requestAnimationFrame(function() {
