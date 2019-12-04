@@ -1,6 +1,6 @@
 (window.onload=function () {
     var wh = window.innerHeight;//页面高度
-    var h = document.querySelector(".visible").offsetHeight;
+    var h = document.querySelector(".visible").offsetHeight + this.document.querySelector(".author-detail").offsetHeight + this.document.querySelector("#gitalk_container").offsetHeight;
    
     var dh = h - wh;
     window.addEventListener('scroll', function() {
